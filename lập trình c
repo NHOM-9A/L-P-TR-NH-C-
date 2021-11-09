@@ -1,4 +1,5 @@
-include<stdio.h>
+#include<stdio.h>
+#include<math.h>
 int main ()
 {
     int i, n;
@@ -33,5 +34,5 @@ printf("Sum of the series : ");
      printf (" hello cac ban, toi la trang  ");
     scantf ("%d",a);
     printf("hello cac ban , toi la phuc  ");
-    return0;
+
 }
